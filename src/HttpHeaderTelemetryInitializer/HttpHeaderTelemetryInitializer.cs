@@ -5,13 +5,14 @@ using System.Text;
 using System.Web;
 using Microsoft.ApplicationInsights.Channel;
 using Microsoft.ApplicationInsights.DataContracts;
+using Microsoft.ApplicationInsights.Extensibility;
 
 // https://apmtips.com/posts/2014-12-01-telemetry-initializers/
 // https://github.com/microsoft/ApplicationInsights-dotnet/issues/820
 
 namespace AI.TelemetryInitializer
 {
-    public class HttpHeaderTelemetryInitializer
+    public class HttpHeaderTelemetryInitializer : ITelemetryInitializer
     {
         private static void Quote(StringBuilder sb, string data)
         {
