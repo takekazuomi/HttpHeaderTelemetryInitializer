@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpHeaderTelemetryInitializer", "src\HttpHeaderTelemetryInitializer\HttpHeaderTelemetryInitializer.csproj", "{E005EEA5-2FBB-4FF9-BA94-4A34F4B92946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "src\WebApplication1\WebApplication1.csproj", "{E0F923FB-1731-4DA1-9009-C8CC503D784F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "src\WebApplication1\WebApplication1.csproj", "{0EF46227-6A09-4858-AD3D-E61C4FFB30BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{E005EEA5-2FBB-4FF9-BA94-4A34F4B92946}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E005EEA5-2FBB-4FF9-BA94-4A34F4B92946}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E005EEA5-2FBB-4FF9-BA94-4A34F4B92946}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E0F923FB-1731-4DA1-9009-C8CC503D784F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E0F923FB-1731-4DA1-9009-C8CC503D784F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E0F923FB-1731-4DA1-9009-C8CC503D784F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E0F923FB-1731-4DA1-9009-C8CC503D784F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF46227-6A09-4858-AD3D-E61C4FFB30BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF46227-6A09-4858-AD3D-E61C4FFB30BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF46227-6A09-4858-AD3D-E61C4FFB30BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF46227-6A09-4858-AD3D-E61C4FFB30BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
